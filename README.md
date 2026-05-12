@@ -23,14 +23,6 @@ demonstration of a different sampling technique applied to a physics problem.
    the background expectation. Used to locate the σ at which 95% of
    experiments would observe a positive signal.
 
-## Why it exists
-
-Originally coursework. Kept and cleaned up as a portfolio sample of:
-
-- implementing both inverse-CDF and reject-accept sampling from scratch,
-- checking samplers against their target distribution numerically (histograms,
-  RMS error, chi-square),
-- composing samplers into a multi-stage physics simulation.
 
 ## Run it
 
